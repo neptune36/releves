@@ -1,6 +1,6 @@
-# releves
+# my_picked_up
 
-A new Flutter project.
+A new Flutter application.
 
 ## Getting Started
 

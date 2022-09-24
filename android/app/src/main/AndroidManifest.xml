@@ -1,8 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.releves">
+    package="com.peartopeer.my_picked_up">
    <application
-        android:label="releves"
-        android:icon="@mipmap/ic_launcher">
+        android:label="my_picked_up"
+        android:icon="@mipmap/launcher_icon">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"

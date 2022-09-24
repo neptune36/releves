@@ -1,0 +1,35 @@
+{
+  "homePageTitle" : "Mes suivis",
+  "homePageNoCollectors" : "Aucun suivi pour le moment...",
+  "homePageAddCollectorTooltip" : "Ajouter un nouveau suivi",
+
+  "addDataMonitoringFormLabel" : "Libellé",
+  "addDataMonitoringFormUnit" : "Unité",
+  "addDataMonitoringTitle" : "Nouveau suivi",
+
+  "addDataCollectionFormQuantity" : "Quantité",
+  "addDataCollectionFormDate" : "Date",
+  "addDataCollectionTitle" : "Nouveau relevé",
+
+  "collectorGroupDataBy" : "Regrouper les données par",
+  "collectorMinute" : "Minute",
+  "collectorHour" : "Heure",
+  "collectorDay" : "Jour",
+  "collectorMonth" : "Mois",
+  "collectorYear" : "Année",
+  "collectorSum" : "Somme",
+  "collectorAverage" : "Moyenne",
+  "collectorAddDataTooltip" : "Ajouter un relevé",
+  "collectorDeleteMessageTitle" : "Supprimer le suivi",
+  "collectorDeleteMessageBody" : "Etes-vous sûr de vouloir supprimer ce suivi ?",
+
+  "formRequiredField" : " champ requis",
+  "commonsNo" : "Non",
+  "commonsYes" : "Oui",
+  "commonsDate" : "Date",
+  "commonsQuantity" : "Quantité",
+
+  "sampleWeight" : "Poids",
+  "sampleTobacco" : "Tabac"
+
+}

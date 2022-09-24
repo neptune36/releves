@@ -1,0 +1,34 @@
+{
+  "homePageTitle" : "My monitorings",
+  "homePageNoCollectors" : "No monitorings for the moment...",
+  "homePageAddCollectorTooltip" : "Add new monitoring",
+
+  "addDataMonitoringFormLabel" : "Label",
+  "addDataMonitoringFormUnit" : "Unit",
+  "addDataMonitoringTitle" : "New monitoring",
+
+  "addDataCollectionFormQuantity" : "Quantity",
+  "addDataCollectionFormDate" : "Date",
+  "addDataCollectionTitle" : "New data",
+
+  "collectorGroupDataBy" : "Group data by",
+  "collectorMinute" : "Minute",
+  "collectorHour" : "Hour",
+  "collectorDay" : "Day",
+  "collectorMonth" : "Month",
+  "collectorYear" : "Year",
+  "collectorSum" : "Sum",
+  "collectorAverage" : "Average",
+  "collectorAddDataTooltip" : "Add new data",
+  "collectorDeleteMessageTitle" : "Delete monitoring",
+  "collectorDeleteMessageBody" : "Do you really want to delete this monitoring ?",
+
+  "formRequiredField" : " field required",
+  "commonsNo" : "No",
+  "commonsYes" : "Yes",
+  "commonsDate" : "Date",
+  "commonsQuantity" : "Quantity",
+
+  "sampleWeight" : "Weight",
+  "sampleTobacco" : "Tobacco"
+}
